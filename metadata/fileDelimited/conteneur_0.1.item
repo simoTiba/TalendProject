@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_JxYgAbQPEee2YoEYbrmReA" name="conteneur" dataPackage="_JxYgArQPEee2YoEYbrmReA" Server="Localhost 127.0.0.1" FilePath="/home/simo/Music/XML_Ressource/conteneur.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_JxYgArQPEee2YoEYbrmReA" name="default" dataManager="_JxYgAbQPEee2YoEYbrmReA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_JxYgA7QPEee2YoEYbrmReA" id="_6IffkLQOEee2YoEYbrmReA" label="Conteneur">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_JxYgBLQPEee2YoEYbrmReA" label="id_conteneur" length="10" talendType="id_String" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_JxYgBbQPEee2YoEYbrmReA" label="num_dist" length="20" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_JxYgBrQPEee2YoEYbrmReA" label="num_entrepot" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_JxYgB7QPEee2YoEYbrmReA" label="capacite_conteneur" length="20" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_JxYgCLQPEee2YoEYbrmReA" label="num_produit" length="20" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

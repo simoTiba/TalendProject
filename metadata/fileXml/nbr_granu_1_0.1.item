@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:XmlFileConnection xmi:id="_0ScLgL8tEeeDmdHnbZUdBw" name="nbr_granu_1" dataPackage="_0ScLhb8tEeeDmdHnbZUdBw" XmlFilePath="/home/simo/Music/WorkspaceTalend_Test/Statistique_Granularite_1.xml" Encoding="ISO-8859-15" fileContent="3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D2249534F2D383835392D3135223F3E0A3C726F6F743E0A3C726F773E0A3C49645F5374617469737469717565733E303C2F49645F5374617469737469717565733E0A3C4D6573736167653E4E6F6D62726520646520436F6E74656E6575722066696C7472E92073656C6F6E206C61206772616E756C61726974E92064616E73206C6120736F7572636520313C2F4D6573736167653E0A3C4E6F6D6272655F64655F7475706C65733E31353C2F4E6F6D6272655F64655F7475706C65733E0A3C446174653E32372D31302D323031373C2F446174653E0A3C2F726F773E0A3C2F726F6F743E0A">
+    <schema xmi:id="_0ScLgb8tEeeDmdHnbZUdBw" LimitBoucle="50" AbsoluteXPathQuery="/root/row">
+      <schemaTargets xmi:id="_0ScLgr8tEeeDmdHnbZUdBw" RelativeXPathQuery="Id_Statistiques" TagName="Id_Statistiques"/>
+      <schemaTargets xmi:id="_0ScLg78tEeeDmdHnbZUdBw" RelativeXPathQuery="Message" TagName="Message"/>
+      <schemaTargets xmi:id="_0ScLhL8tEeeDmdHnbZUdBw" RelativeXPathQuery="Nombre_de_tuples" TagName="Nombre_de_tuples"/>
+    </schema>
+  </TalendMetadata:XmlFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_0ScLhb8tEeeDmdHnbZUdBw" name="default" dataManager="_0ScLgL8tEeeDmdHnbZUdBw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_0ScLhr8tEeeDmdHnbZUdBw" id="_l9amsL8tEeeDmdHnbZUdBw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0ScLh78tEeeDmdHnbZUdBw" label="Id_Statistiques" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0ScLiL8tEeeDmdHnbZUdBw" label="Message" length="64" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0ScLib8tEeeDmdHnbZUdBw" label="Nombre_de_tuples" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

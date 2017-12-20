@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:XmlFileConnection xmi:id="_c1FiALkTEeeHzrq5HmHFFA" name="java_out" dataPackage="_c1FiE7kTEeeHzrq5HmHFFA" XmlFilePath="/home/simo/Music/WorkspaceTalend_Test/out_java.xml" Encoding="ISO-8859-15" fileContent="3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D2249534F2D383835392D3135223F3E0A3C726F6F743E0A3C726F773E0A3C63617061636974655F636F6E74656E6575725F6D61785F53313E3430303C2F63617061636974655F636F6E74656E6575725F6D61785F53313E0A3C63617061636974655F636F6E74656E6575725F6D696E5F53313E3130303C2F63617061636974655F636F6E74656E6575725F6D696E5F53313E0A3C63617061636974655F636F6E74656E6575725F6176675F53313E3233303C2F63617061636974655F636F6E74656E6575725F6176675F53313E0A3C63617061636974655F636F6E74656E6575725F6D61785F53323E3337363C2F63617061636974655F636F6E74656E6575725F6D61785F53323E0A3C63617061636974655F636F6E74656E6575725F6D696E5F53323E3230323C2F63617061636974655F636F6E74656E6575725F6D696E5F53323E0A3C63617061636974655F636F6E74656E6575725F6176675F53323E3239313C2F63617061636974655F636F6E74656E6575725F6176675F53323E0A3C63617061636974655F636F6E74656E6575725F6D61785F53333E3337363030303C2F63617061636974655F636F6E74656E6575725F6D61785F53333E0A3C63617061636974655F636F6E74656E6575725F6D696E5F53333E3131303030303C2F63617061636974655F636F6E74656E6575725F6D696E5F53333E0A3C63617061636974655F636F6E74656E6575725F6176675F53333E3235323838383C2F63617061636974655F636F6E74656E6575725F6176675F53333E0A3C6C696D6974653E3235323838383C2F6C696D6974653E0A3C636F6566657373696F6E3E313C2F636F6566657373696F6E3E0A3C636F6566657373696F6E53313E313130313C2F636F6566657373696F6E53313E0A3C636F6566657373696F6E53323E3837303C2F636F6566657373696F6E53323E0A3C636F6566657373696F6E53333E313C2F636F6566657373696F6E53333E0A3C70726F626C656D6553313E2053333C2F70726F626C656D6553313E0A3C70726F626C656D6553323E2053333C2F70726F626C656D6553323E0A3C70726F626C656D6553333E2053312053323C2F70726F626C656D6553333E0A3C2F726F773E0A3C2F726F6F743E0A">
+    <schema xmi:id="_c1FiAbkTEeeHzrq5HmHFFA" LimitBoucle="50" AbsoluteXPathQuery="/root/row">
+      <schemaTargets xmi:id="_c1FiArkTEeeHzrq5HmHFFA" RelativeXPathQuery="capacite_conteneur_max_S1" TagName="capacite_conteneur_max_S1"/>
+      <schemaTargets xmi:id="_c1FiA7kTEeeHzrq5HmHFFA" RelativeXPathQuery="capacite_conteneur_min_S1" TagName="capacite_conteneur_min_S1"/>
+      <schemaTargets xmi:id="_c1FiBLkTEeeHzrq5HmHFFA" RelativeXPathQuery="capacite_conteneur_avg_S1" TagName="capacite_conteneur_avg_S1"/>
+      <schemaTargets xmi:id="_c1FiBbkTEeeHzrq5HmHFFA" RelativeXPathQuery="capacite_conteneur_max_S2" TagName="capacite_conteneur_max_S2"/>
+      <schemaTargets xmi:id="_c1FiBrkTEeeHzrq5HmHFFA" RelativeXPathQuery="capacite_conteneur_min_S2" TagName="capacite_conteneur_min_S2"/>
+      <schemaTargets xmi:id="_c1FiB7kTEeeHzrq5HmHFFA" RelativeXPathQuery="capacite_conteneur_avg_S2" TagName="capacite_conteneur_avg_S2"/>
+      <schemaTargets xmi:id="_c1FiCLkTEeeHzrq5HmHFFA" RelativeXPathQuery="capacite_conteneur_max_S3" TagName="capacite_conteneur_max_S3"/>
+      <schemaTargets xmi:id="_c1FiCbkTEeeHzrq5HmHFFA" RelativeXPathQuery="capacite_conteneur_min_S3" TagName="capacite_conteneur_min_S3"/>
+      <schemaTargets xmi:id="_c1FiCrkTEeeHzrq5HmHFFA" RelativeXPathQuery="capacite_conteneur_avg_S3" TagName="capacite_conteneur_avg_S3"/>
+      <schemaTargets xmi:id="_c1FiC7kTEeeHzrq5HmHFFA" RelativeXPathQuery="limite" TagName="limite"/>
+      <schemaTargets xmi:id="_c1FiDLkTEeeHzrq5HmHFFA" RelativeXPathQuery="coefession" TagName="coefession"/>
+      <schemaTargets xmi:id="_c1FiDbkTEeeHzrq5HmHFFA" RelativeXPathQuery="coefessionS1" TagName="coefessionS1"/>
+      <schemaTargets xmi:id="_c1FiDrkTEeeHzrq5HmHFFA" RelativeXPathQuery="coefessionS2" TagName="coefessionS2"/>
+      <schemaTargets xmi:id="_c1FiD7kTEeeHzrq5HmHFFA" RelativeXPathQuery="coefessionS3" TagName="coefessionS3"/>
+      <schemaTargets xmi:id="_c1FiELkTEeeHzrq5HmHFFA" RelativeXPathQuery="problemeS1" TagName="problemeS1"/>
+      <schemaTargets xmi:id="_c1FiEbkTEeeHzrq5HmHFFA" RelativeXPathQuery="problemeS2" TagName="problemeS2"/>
+      <schemaTargets xmi:id="_c1FiErkTEeeHzrq5HmHFFA" RelativeXPathQuery="problemeS3" TagName="problemeS3"/>
+    </schema>
+  </TalendMetadata:XmlFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_c1FiE7kTEeeHzrq5HmHFFA" name="default" dataManager="_c1FiALkTEeeHzrq5HmHFFA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_c1FiFLkTEeeHzrq5HmHFFA" id="_V2hNYLkTEeeHzrq5HmHFFA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiFbkTEeeHzrq5HmHFFA" label="capacite_conteneur_max_S1" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiFrkTEeeHzrq5HmHFFA" label="capacite_conteneur_min_S1" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiF7kTEeeHzrq5HmHFFA" label="capacite_conteneur_avg_S1" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiGLkTEeeHzrq5HmHFFA" label="capacite_conteneur_max_S2" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiGbkTEeeHzrq5HmHFFA" label="capacite_conteneur_min_S2" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiGrkTEeeHzrq5HmHFFA" label="capacite_conteneur_avg_S2" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiG7kTEeeHzrq5HmHFFA" label="capacite_conteneur_max_S3" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiHLkTEeeHzrq5HmHFFA" label="capacite_conteneur_min_S3" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiHbkTEeeHzrq5HmHFFA" label="capacite_conteneur_avg_S3" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiHrkTEeeHzrq5HmHFFA" label="limite" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiH7kTEeeHzrq5HmHFFA" label="coefession" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiILkTEeeHzrq5HmHFFA" label="coefessionS1" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiIbkTEeeHzrq5HmHFFA" label="coefessionS2" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiIrkTEeeHzrq5HmHFFA" label="coefessionS3" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiI7kTEeeHzrq5HmHFFA" label="problemeS1" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiJLkTEeeHzrq5HmHFFA" label="problemeS2" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c1FiJbkTEeeHzrq5HmHFFA" label="problemeS3" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
